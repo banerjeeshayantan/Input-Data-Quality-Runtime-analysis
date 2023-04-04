@@ -1,0 +1,10 @@
+PASS	Basic Statistics	SRR925780_7.bam
+PASS	Per base sequence quality	SRR925780_7.bam
+PASS	Per sequence quality scores	SRR925780_7.bam
+PASS	Per base sequence content	SRR925780_7.bam
+PASS	Per sequence GC content	SRR925780_7.bam
+PASS	Per base N content	SRR925780_7.bam
+WARN	Sequence Length Distribution	SRR925780_7.bam
+PASS	Sequence Duplication Levels	SRR925780_7.bam
+PASS	Overrepresented sequences	SRR925780_7.bam
+PASS	Adapter Content	SRR925780_7.bam
